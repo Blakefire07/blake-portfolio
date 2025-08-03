@@ -6,6 +6,11 @@ This project showcases who I am, what I do, and the value I bring to the table a
 
 ---
 
+## 🔗 Live Demo
+[Click here to view the portfolio](https://blakefire07.github.io/blake-portfolio/)
+
+----
+
 ##  Features
 
 -  Clean and responsive layout
